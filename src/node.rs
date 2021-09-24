@@ -1,5 +1,6 @@
 use crate::datatype::Number;
 
+#[allow(dead_code)]
 pub(crate) struct Position {
     /// Source offset in file. It starts from 0.
     offset: Number,

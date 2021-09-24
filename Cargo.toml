@@ -2,6 +2,12 @@
 name = "rustycss"
 version = "0.1.0"
 edition = "2018"
+repository = "https://github.com/CGQAQ/rustycss"
+homepage = "https://github.com/CGQAQ/rustycss"
+description = "Postcss implements in rust"
+license = "GPL-3.0"
+license-file = "LICENSE"
+keywords = ["postcss", "css", "frontend", "frontend tool"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
